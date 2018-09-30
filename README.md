@@ -1,2 +1,2 @@
-# joker-memory
-a Joker-themed React picture memory game
+# joker
+a Joker-themed React memory game
